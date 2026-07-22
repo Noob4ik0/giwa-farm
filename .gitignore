@@ -1,4 +1,6 @@
 .env
+faucet.env
+faucet_state.json
 *.log
 __pycache__/
 *.pyc
